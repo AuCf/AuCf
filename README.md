@@ -1,6 +1,5 @@
-## Hi there 👋
 <!-- ======================================================== -->
-<!-- 🎨 AuCf's Ultimate GitHub Profile README Template           -->
+<!-- 🎨 AuCf's Ultimate GitHub Profile README Template (防墙/稳定加载版) -->
 <!-- ======================================================== -->
 
 <!-- Header Banner & 打字机动画 -->
@@ -13,7 +12,7 @@
 
   <br/><br/>
 
-  <!-- 个人数据徽章 -->
+  <!-- 个人数据实时徽章栏 (全稳定 CDN) -->
   <p align="center">
     <img src="https://img.shields.io/github/followers/AuCf?label=Followers&style=for-the-badge&color=238636&logo=github" />
     <img src="https://img.shields.io/github/stars/AuCf?label=Total%20Stars&style=for-the-badge&color=e3b341&logo=github" />
@@ -60,34 +59,10 @@
 
 ---
 
-### 🏆 GitHub 荣誉奖牌 (GitHub Trophies)
+### 📊 GitHub 提交 Streak 连续天数 (Streak Stats)
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=AuCf&theme=onedark&no-frame=true&no-reflection=true&column=6" alt="AuCf's GitHub Trophies" />
-  </a>
-</div>
-
----
-
-### 📊 GitHub 数据看板 (Stats & Activity)
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=AuCf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="AuCf's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AuCf&layout=compact&theme=tokyonight&hide_border=true&hide=html" height="170" alt="AuCf's Top Languages" />
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuCf&theme=tokyonight&hide_border=true" width="100%" alt="AuCf's Streak" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuCf&theme=tokyonight&hide_border=true" width="100%" alt="AuCf's Streak" />
 </div>
 
 ---
@@ -99,18 +74,6 @@
 | **⚡ uShell** | `TypeScript` | 免费轻量终端工具，高效命令行交互体验 | [查看项目](https://github.com/AuCf/ushell) |
 | **📝 Whisper** | `Vue` | 优雅在线 Markdown 编辑器，实时预览与多格式导出 | [查看项目](https://github.com/AuCf/whisper) |
 | **🐍 SKBro** | `Python` | 实用 Python 自动化工具与脚本集合 | [查看项目](https://github.com/AuCf/skbro) |
-
----
-
-### 🐍 GitHub Contribution Snake (贡献图贪吃蛇)
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AuCf/AuCf/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AuCf/AuCf/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/AuCf/AuCf/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
 
 ---
 
