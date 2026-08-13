@@ -1,5 +1,6 @@
 <!-- ======================================================== -->
 <!-- 🏆 AuCf's SLEEK & MODERN GITHUB PROFILE (高雅高级感版)     -->
+<!-- 已包含全新开源项目 pindo (桌面置顶便签)                       -->
 <!-- ======================================================== -->
 
 <div align="center">
@@ -11,7 +12,7 @@
 
   <!-- ⌨️ 优雅打字机 ⌨️ -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Full-Stack+%26+Systems+Engineer;Go+%E2%80%A2+Java+%E2%80%A2+TypeScript+%E2%80%A2+Python;Building+uShell+%E2%80%A2+Whisper+%E2%80%A2+SKBro" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Systems+Engineer;Go+%E2%80%A2+Java+%E2%80%A2+TypeScript+%E2%80%A2+Python;Building+uShell+%E2%80%A2+Whisper+%E2%80%A2+pindo+%E2%80%A2+SKBro" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -33,7 +34,7 @@
       <h3>👋 开发者简介 / About Me</h3>
       <ul>
         <li><b>主攻方向</b>：Go / Java 后端工程 & TypeScript / Vue 3 前端开发</li>
-        <li><b>代表作品</b>：<a href="https://github.com/AuCf/ushell">⚡ uShell</a> | <a href="https://github.com/AuCf/whisper">📝 Whisper</a> | <a href="https://github.com/AuCf/skbro">🐍 SKBro</a></li>
+        <li><b>代表作品</b>：<a href="https://github.com/AuCf/ushell">⚡ uShell</a> | <a href="https://github.com/AuCf/whisper">📝 Whisper</a> | <a href="https://github.com/AuCf/pindo">📌 pindo</a> | <a href="https://github.com/AuCf/skbro">🐍 SKBro</a></li>
         <li><b>技术追求</b>：高性能架构、全栈工具链与优质用户体验</li>
       </ul>
     </td>
@@ -70,19 +71,25 @@
 <div align="center">
   <table width="100%">
     <tr>
-      <td width="33%" align="center" valign="top">
+      <td width="25%" align="center" valign="top">
         <h4>⚡ uShell</h4>
-        <p>轻量级 Web / CLI 交互终端工具</p>
+        <p>轻量级 Web / CLI 终端工具</p>
         <p><code>TypeScript</code> / <code>CLI</code></p>
         <a href="https://github.com/AuCf/ushell">查看仓库 →</a>
       </td>
-      <td width="33%" align="center" valign="top">
+      <td width="25%" align="center" valign="top">
         <h4>📝 Whisper</h4>
         <p>高颜值在线 Markdown 编辑预览器</p>
         <p><code>Vue 3</code> / <code>Markdown</code></p>
         <a href="https://github.com/AuCf/whisper">查看仓库 →</a>
       </td>
-      <td width="33%" align="center" valign="top">
+      <td width="25%" align="center" valign="top">
+        <h4>📌 pindo</h4>
+        <p>桌面顶层固定便签与随记工具</p>
+        <p><code>JavaScript</code> / <code>Tool</code></p>
+        <a href="https://github.com/AuCf/pindo">查看仓库 →</a>
+      </td>
+      <td width="25%" align="center" valign="top">
         <h4>🐍 SKBro</h4>
         <p>Python 高效自动化处理工具箱</p>
         <p><code>Python</code> / <code>Automation</code></p>
