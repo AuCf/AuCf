@@ -1,6 +1,5 @@
 <!-- ======================================================== -->
-<!-- 🏆 AuCf's SLEEK & MODERN GITHUB PROFILE (高雅高级感版)     -->
-<!-- 已包含全新开源项目 pindo (桌面置顶便签)                       -->
+<!-- 🏆 AuCf's SLEEK & MODERN GITHUB PROFILE (绝对零裂图·极致稳定版) -->
 <!-- ======================================================== -->
 
 <div align="center">
@@ -10,7 +9,7 @@
 
   <br/>
 
-  <!-- ⌨️ 优雅打字机 ⌨️ -->
+  <!-- ⌨️ 优雅打字机 (100% 稳定) ⌨️ -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Full-Stack+%26+Systems+Engineer;Go+%E2%80%A2+Java+%E2%80%A2+TypeScript+%E2%80%A2+Python;Building+uShell+%E2%80%A2+Whisper+%E2%80%A2+pindo+%E2%80%A2+SKBro" alt="Typing SVG" />
   </a>
@@ -101,10 +100,15 @@
 
 <br/>
 
-<h3 align="center">📊 提交动态 (Contribution Activity)</h3>
+<h3 align="center">📊 仓库状态与指标 (Repository Activity)</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AuCf&theme=dark&hide_border=true&background=0D1117&ring=0284c7&fire=0284c7&currStreakNum=38bdf8" width="100%" alt="AuCf Streak" />
+  <!-- 使用 Shields 100% 稳定节点，彻底解决第三方统计服务裂图问题 -->
+  <p align="center">
+    <img src="https://img.shields.io/github/last-commit/AuCf/AuCf?style=for-the-badge&color=0284c7&label=Last%20Activity" />
+    <img src="https://img.shields.io/github/followers/AuCf?style=for-the-badge&color=6366f1&label=Followers" />
+    <img src="https://img.shields.io/github/stars/AuCf?style=for-the-badge&color=eab308&label=Total%20Stars" />
+  </p>
 </div>
 
 <br/>
