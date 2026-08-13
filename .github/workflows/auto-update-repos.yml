@@ -1,0 +1,35 @@
+name: Auto Update Repositories in README
+
+on:
+  schedule:
+    # 每天凌晨自动运行一次拉取最新仓库
+    - cron: '0 0 * * *'
+  # 支持手动在 Actions 页面一键触发
+  workflow_dispatch:
+  # 当推送新代码时触发
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Fetch Latest Repos and Update README
+        run: |
+          python update_repos.py
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          git diff --quiet || (git add README.md && git commit -m "auto: update featured repos in README" && git push)
